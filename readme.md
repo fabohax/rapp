@@ -2,6 +2,10 @@
 
 do
 
-´´´ npm install webpack webpack-cli webpack-dev-server html-webpack-plugin --save-dev ´´´
+    ```
+    npm install webpack webpack-cli webpack-dev-server html-webpack-plugin --save-dev
+    ```
 
-´´´ npm run build ´´´
+    ```
+    npm run build
+    ```
